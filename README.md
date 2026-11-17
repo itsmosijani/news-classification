@@ -1,5 +1,6 @@
 # news-classification
 
-**Contributors:**
+__Contributors:__
 
-**-Mohammad Amin Bazrafshan**
+- ermia
+- Mohammad Amin Bazrafshan
