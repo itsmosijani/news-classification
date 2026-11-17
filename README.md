@@ -1,3 +1,8 @@
 # news-classification
 
-__Contributors:__
+**Contributors:**
+
+
+
+**-Mohammad Amin Bazrafshan**
+
